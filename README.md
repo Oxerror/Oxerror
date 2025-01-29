@@ -11,7 +11,7 @@ I am a few things:
 - 🚀 React Developer
 
 What I am currently working on:
-- 📖 Private Wiki
+- 📖 Sync reading progress plugin
 - 💽 Simulations
 
 What I am interested in:
