@@ -12,7 +12,6 @@ I am a few things:
 
 What I am currently working on:
 - 📖 Sync reading progress plugin
-- 💽 Simulations
 
 What I am interested in:
 - 🎮 Game Dev
